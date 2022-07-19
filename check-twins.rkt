@@ -1,6 +1,6 @@
 #lang racket
 
-;Zadatak 
+;Zadatakk
 
 ;Neka je sa d(n) označen zbir svih prirodnih djelilaca broja n manjih od n. 
 ;Ukoliko je d(a)=b i d(b)=a, kažemo da su brojevi blizanci. 
